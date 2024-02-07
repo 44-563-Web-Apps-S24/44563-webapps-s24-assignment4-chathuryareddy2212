@@ -23,4 +23,21 @@
 }
 .LOMOV {
     color:crimson;
+
+}
+table{
+    width: 100px;
+}
+table,th,td{
+    border:1px solid black;
+    padding: 8px;
+}
+td{
+    text-align: center;
+}
+th{
+    background-color: aqua;
+}
+td{
+    background-color: chocolate;
 }
