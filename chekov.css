@@ -41,3 +41,9 @@ th{
 td{
     background-color:lightblue;
 }
+
+.CHUBUKOV:hover {
+    text-shadow: 2px 2px 5px rgba(106, 3, 3, 0.7);
+    border: 2px solid #ff5733;
+    padding: 5px;
+}
